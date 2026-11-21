@@ -1,8 +1,11 @@
 # 💫 About Me:
 
-🎓 2nd Year Computer Science Engineering Student
-💻 Aspiring Software Developer
+🎓 2nd Year Computer Science Engineering Student.
+
+💻 Aspiring Software Developer.
+
 🌱 Currently learning DSA in C++.
+
 Interested in building projects and new technologies.
 
 
