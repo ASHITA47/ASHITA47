@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a  CSE student.<br>Aspiring software Developer<br>Open to collabarate & intern.
+2nd Year CSE Student
+Aspiring Software Developer
+Currently learning DSA and C++
+Interested in building projects and learning new technologies.
 
 
 ## 🌐 Socials:
