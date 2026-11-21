@@ -1,8 +1,10 @@
 # 💫 About Me:
-2nd Year CSE Student
-Aspiring Software Developer
-Currently learning DSA and C++
-Interested in building projects and learning new technologies.
+
+🎓 2nd Year Computer Science Engineering Student
+💻 Aspiring Software Developer
+🌱 Currently learning DSA in C++.
+Interested in building projects and new technologies.
+
 
 
 ## 🌐 Socials:
